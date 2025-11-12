@@ -31,7 +31,7 @@ h2 {
 .profile-blob {
   width: 250px;
   height: 250px;
-  background: url("EDRIC_BLACK.jpg") center center / cover no-repeat;
+  background: url("EDRICBARNWAL.jpg") center center / cover no-repeat;
   animation: blobMorph 8s ease-in-out infinite alternate;
   transition: 1s ease-in-out;
   box-shadow: 0 0 30px rgba(255, 255, 255, 0.5); /* Soft white glow */
@@ -198,6 +198,7 @@ body {
 .social.x:hover svg {
   filter: drop-shadow(0 0 10px #1DA1F2) drop-shadow(0 0 20px #1DA1F2);
 }
+
 
 
 
