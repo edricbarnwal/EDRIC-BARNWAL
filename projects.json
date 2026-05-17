@@ -1,0 +1,25 @@
+[
+    {
+        "id":"pj01",
+        "name": "Rock Papper Scissor Game",
+        "description": "This project is a classic implementation of the Rock–Paper–Scissors game using Python. It allows users to play against the computer in a fun, interactive way.",
+        "image": "PROJECT IMAGES/rpsgame.jpeg",
+        "link": "https://github.com/edricbarnwal/python-mini-projects/tree/main/rock-paper-scissor"
+
+    },
+    {
+        "id":"pj02",
+        "name":"Monday Motivation",
+        "description": "An automated positivity engine that detects when a new week begins and instantly delivers an inspiring quote to kickstart the day with the right mindset.",
+        "image":"PROJECT IMAGES/monmot.jpeg", 
+        "link": "https://github.com/edricbarnwal/python-mini-projects/tree/main/Monday%20Motivation"
+    }, 
+    {
+        "id":"pj03", 
+        "name": "BMI Calculator",
+        "description": "Calculates your body metrics instantly, helping you track your physical health without doing the complicated math yourself.",
+        "image": "PROJECT IMAGES/bmical.jpeg",
+        "link": ""
+    }
+
+]
