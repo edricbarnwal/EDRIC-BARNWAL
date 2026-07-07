@@ -1,6 +1,14 @@
 [
     {
-        "id":"pj01",
+        "id": "pj01",
+        "name": "Olist: E-Commerce Growth & Insights Analysis",
+        "description": "Olist: E-Commerce Growth & Insights Analysis is a data-driven exploration of Brazil’s largest online marketplace dataset. The project leverages Python and advanced analytics techniques to uncover patterns in customer behavior, seller performance, and order trends.",
+        "link": "https://github.com/edricbarnwal/Olist-E-Commerce-Growth-Insights-Analysis"
+        
+    },
+    
+    {
+        "id":"pj02",
         "name": "Rock Papper Scissor Game",
         "description": "This project is a classic implementation of the Rock–Paper–Scissors game using Python. It allows users to play against the computer in a fun, interactive way.",
         "image": "PROJECT IMAGES/rpsgame.jpeg",
@@ -8,14 +16,14 @@
 
     },
     {
-        "id":"pj02",
+        "id":"pj03",
         "name":"Monday Motivation",
         "description": "An automated positivity engine that detects when a new week begins and instantly delivers an inspiring quote to kickstart the day with the right mindset.",
         "image":"PROJECT IMAGES/monmot.jpeg", 
         "link": "https://github.com/edricbarnwal/python-mini-projects/tree/main/Monday%20Motivation"
     }, 
     {
-        "id":"pj03", 
+        "id":"pj04", 
         "name": "BMI Calculator",
         "description": "Calculates your body metrics instantly, helping you track your physical health without doing the complicated math yourself.",
         "image": "PROJECT IMAGES/bmical.jpeg",
